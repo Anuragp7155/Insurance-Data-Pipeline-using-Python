@@ -1,0 +1,11 @@
+{
+  "file_name": "payments_20250818.csv",
+  "expected_rows": 182,
+  "expected_columns": [
+    "Payment_ID",
+    "Policy_ID",
+    "Payment_Date",
+    "Payment_Amount"
+  ],
+  "expected_extension": ".csv"
+}
