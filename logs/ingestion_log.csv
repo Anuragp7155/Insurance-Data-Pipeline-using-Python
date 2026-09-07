@@ -1,0 +1,50 @@
+timestamp,file_name,stage,status,row_count,message
+2026-08-19 22:50:58.216965,test_file.csv,INGESTION,SUCCESS,100,Test log entry
+2026-08-19 22:52:46.080464,claims_yyyymmdd.csv,INGESTION,FAILED,,CSV file not found: data\ingestion\claims_yyyymmdd.csv
+2026-08-19 22:54:45.759235,claims_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-19 22:58:04.021116,agents_20250818.csv,INGESTION,SUCCESS,15,File validation successful
+2026-08-19 22:58:04.028646,claims_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-19 22:58:04.042946,customers_20250818.csv,INGESTION,SUCCESS,80,File validation successful
+2026-08-19 22:58:04.048717,payments_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-19 22:58:04.054838,policies_20250818.csv,INGESTION,SUCCESS,123,File validation successful
+2026-08-19 23:26:20.726761,agents_20250818.csv,INGESTION,SUCCESS,15,File validation successful
+2026-08-19 23:26:20.737128,claims_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-19 23:26:20.744527,customers_20250818.csv,INGESTION,SUCCESS,80,File validation successful
+2026-08-19 23:26:20.752089,payments_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-19 23:26:20.759889,policies_20250818.csv,INGESTION,SUCCESS,123,File validation successful
+2026-08-19 23:29:03.413122,agents_20250818.csv,INGESTION,FAILED,,CSV file not found: data\ingestion\agents_20250818.csv
+2026-08-19 23:29:03.420629,claims_20250818.csv,INGESTION,FAILED,,CSV file not found: data\ingestion\claims_20250818.csv
+2026-08-19 23:29:03.423805,customers_20250818.csv,INGESTION,FAILED,,CSV file not found: data\ingestion\customers_20250818.csv
+2026-08-19 23:29:03.426510,payments_20250818.csv,INGESTION,FAILED,,CSV file not found: data\ingestion\payments_20250818.csv
+2026-08-19 23:29:03.429425,policies_20250818.csv,INGESTION,FAILED,,CSV file not found: data\ingestion\policies_20250818.csv
+2026-08-19 23:29:54.885169,agents_20250818.csv,INGESTION,SUCCESS,15,File validation successful
+2026-08-19 23:29:54.890916,claims_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-19 23:29:54.895489,customers_20250818.csv,INGESTION,SUCCESS,80,File validation successful
+2026-08-19 23:29:54.900970,payments_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-19 23:29:54.906330,policies_20250818.csv,INGESTION,SUCCESS,123,File validation successful
+2026-08-21 22:19:51.085944,agents_20250818.csv,INGESTION,SUCCESS,15,File validation successful
+2026-08-21 22:19:51.101120,claims_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-21 22:19:51.107735,customers_20250818.csv,INGESTION,SUCCESS,80,File validation successful
+2026-08-21 22:19:51.114129,payments_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-21 22:19:51.120705,policies_20250818.csv,INGESTION,SUCCESS,123,File validation successful
+2026-08-21 23:55:16.352637,agents_20250818.csv,INGESTION,SUCCESS,15,File validation successful
+2026-08-21 23:55:16.359050,claims_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-21 23:55:16.364638,customers_20250818.csv,INGESTION,SUCCESS,80,File validation successful
+2026-08-21 23:55:16.369,payments_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-21 23:55:16.373295,policies_20250818.csv,INGESTION,SUCCESS,123,File validation successful
+2026-08-21 23:56:41.350473,agents_20250818.csv,INGESTION,SUCCESS,15,File validation successful
+2026-08-21 23:56:41.357496,claims_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-21 23:56:41.362650,customers_20250818.csv,INGESTION,SUCCESS,80,File validation successful
+2026-08-21 23:56:41.366792,payments_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-21 23:56:41.370811,policies_20250818.csv,INGESTION,SUCCESS,123,File validation successful
+2026-08-27 13:50:38.028529,agents_20250818.csv,INGESTION,SUCCESS,15,File validation successful
+2026-08-27 13:50:38.047905,claims_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-27 13:50:38.058185,customers_20250818.csv,INGESTION,SUCCESS,80,File validation successful
+2026-08-27 13:50:38.069144,payments_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-27 13:50:38.079764,policies_20250818.csv,INGESTION,SUCCESS,123,File validation successful
+2026-08-27 21:17:05.832124,agents_20250818.csv,INGESTION,SUCCESS,15,File validation successful
+2026-08-27 21:17:05.852384,claims_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-27 21:17:05.862991,customers_20250818.csv,INGESTION,SUCCESS,80,File validation successful
+2026-08-27 21:17:05.873914,payments_20250818.csv,INGESTION,SUCCESS,182,File validation successful
+2026-08-27 21:17:05.884958,policies_20250818.csv,INGESTION,SUCCESS,123,File validation successful
+2026-08-29 18:15:54.861271,test_file.csv,INGESTION,SUCCESS,100,Test log entry
