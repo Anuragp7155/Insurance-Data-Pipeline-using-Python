@@ -1,0 +1,12 @@
+{
+  "file_name": "customers_20250818.csv",
+  "expected_rows": 80,
+  "expected_columns": [
+    "Customer_ID",
+    "Customer_Name",
+    "Gender",
+    "Age",
+    "City"
+  ],
+  "expected_extension": ".csv"
+}
